@@ -1,9 +1,17 @@
 - 👋 Hi, I’m @Adi
-- https://adrien-quijo.fr
 - www.redmask.fr
 - www.patisserie-authie.fr
 - www.dominique-jouve.com
 
+🧪 [Portfolio 3D](https://adrien-quijo.fr) — Immersive interface with React 3 Fiber
+
+💻 Stack :
+- Front : HTML, CSS, JavaScript, React, React Three Fiber,
+- Databases : MLySQL/MariaDB/Doctrine, MongoDB/Mongoose
+- GitHub Actions
+
+🌱 Actually at IPI Toulouse, Bachelor 3 Dev
+🎯 Objectif : alternance + montée en compétence fullstack / DevOps
 
 
 
