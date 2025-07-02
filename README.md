@@ -6,9 +6,12 @@
 🧪 [Portfolio 3D](https://adrien-quijo.fr) — Immersive interface with React 3 Fiber
 
 💻 Stack :
-- Front : HTML, CSS, JavaScript, React, React Three Fiber,
+- Front : HTML, CSS, JavaScript, TypeScript, React, React Three Fiber
+- Back : PHP,Symfony, NodeJS, Express
 - Databases : MLySQL/MariaDB/Doctrine, MongoDB/Mongoose
 - GitHub Actions
+- 3D creation : Blender
+- Mockups : Figma
 
 🌱 Actually at IPI Toulouse, Bachelor 3 Dev
 🎯 Objectif : alternance + montée en compétence fullstack / DevOps
