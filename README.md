@@ -14,7 +14,6 @@
 - Mockups : Figma
 
 🌱 Actually at IPI Toulouse, Bachelor 3 Dev
-🎯 Objectif : alternance + montée en compétence fullstack / DevOps
 
 
 
