@@ -8,7 +8,7 @@
 💻 Stack :
 - Front : HTML, CSS, JavaScript, TypeScript, React, React Three Fiber
 - Back : PHP,Symfony, NodeJS, Express
-- Databases : MLySQL/MariaDB/Doctrine, MongoDB/Mongoose
+- Databases : MySQL/MariaDB/Doctrine, MongoDB/Mongoose
 - GitHub Actions
 - 3D creation : Blender
 - Mockups : Figma
